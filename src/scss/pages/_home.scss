@@ -312,12 +312,14 @@
         }
     }
     .email {
-        color: $color-white-2 !important;
         margin: 2rem 0 0 0;
         font-size: 1.8rem;
-        text-decoration: none;
         @media(min-width: 768px) {
             font-size: 2.3rem;
+        }
+        a {
+            color: $color-white-2 !important;
+            text-decoration: none;
         }
     }
 

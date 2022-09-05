@@ -33,7 +33,7 @@ npm run prod
 
 This script will create the production build that contains the site code, which is fast and optimized and minified for production.
 
-[site]: https://nisar.surge.sh
-[screenshot]: https://d2ddoduugvun08.cloudfront.net/items/262A041z232j2x2O1E3Y/Image%202019-08-01%20at%208.32.13%20PM.png
+[site]: https://shokri.dev
+[screenshot]: https://github.com/mehrdad-shokri/portfolio/raw/master/src/meta.jpg
 [node]: https://nodejs.org/en/download/
 [local]: http://localhost:1234
